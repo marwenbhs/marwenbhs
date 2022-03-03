@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="waw" />
         <p className="description">
-          THIS IS  <code>MARWEN</code>
+          THIS IS  <code img src="/marwen.jpg">MARWEN</code>
         </p>
       </main>
 
