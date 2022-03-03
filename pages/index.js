@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="41.226.11.54" />
+        <Header title="waw" />
         <p className="description">
           THIS IS  <code>MARWEN</code>
         </p>
